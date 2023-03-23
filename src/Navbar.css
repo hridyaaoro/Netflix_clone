@@ -1,0 +1,14 @@
+.logo{
+    width: 200px;
+}
+.nav{
+    position: fixed;
+    top: 0px;
+    padding: 20px;
+    /* if logo goes behind any div because of that div has highest value we need our logo front of that  */
+    z-index: 1;
+    width: 100%;
+}
+.nav_black{
+    background-color: black;
+}

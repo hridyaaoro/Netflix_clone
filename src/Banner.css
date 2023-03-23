@@ -1,0 +1,21 @@
+.banner{
+    height: 450px;
+    /* object-fit: contain; */
+}
+.bannerContent{
+    padding-top: 250px;
+    margin-left: 10px;
+    height: 200px;
+}
+.title{
+    /* margin-left: 10px; */
+    font-size: 3rem;
+}
+.desc{
+    /* margin-left: 20px; */
+    width: 45rem;
+    line-height: 1rem;
+    /* font-size: 1rem; */
+    max-width: 650px;
+    height: 80px;
+}
